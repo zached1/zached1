@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on redesigning my courses in Applied data modelling and Machine Learning
    - Converting all my previous R code to python and developing new case studies
-- 🌱 I’m currently learning AWS sagemaker and Microsft Azure OpenAI
+- 🌱 I’m currently working on a project in sqlite3 to help with data science screening interviews.
 - I have published several research papers with various methods: SEM, quantitative survey research on EHRs, logistic regression and other forms of regression
 - 📫 How to reach me: my first name backwards then my last name backwards 'at' yahoo 'dot' com
 
